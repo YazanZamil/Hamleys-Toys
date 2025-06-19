@@ -1,0 +1,66 @@
+{
+  "phone_toy": {
+    "title": "phone toy",
+    "price": 10.99,
+    "description": "A fun and interactive phone toy with lights and sounds. Great for imaginative play and early learning. Safe, colorful, and easy to use for toddlers.",
+    "image_main": "https://upload.wikimedia.org/wikipedia/commons/7/78/Happy_phone_%287559260898%29.jpg",
+    "image_second": "",
+    "image_third": ""
+  },
+  "car_toy": {
+    "title": "car toy",
+    "price": 78.9,
+    "description": "A durable and fun toy car designed for little hands. Perfect for encouraging imaginative play, coordination, and hours of racing fun.",
+    "image_main": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Vintage_toy_car.jpg",
+    "image_second": "",
+    "image_third": ""
+  },
+  "elephant_": {
+    "title": "elephant ",
+    "price": 1.99,
+    "description": "This elephant toy is the perfect playmate for hugs, giggles, and tiny adventures.",
+    "image_main": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Elephant_calf_-_inflatable_sitting_toy_-_design_Libu%C5%A1e_Niklov%C3%A1_1975_Fatra_Napajedla.jpg",
+    "image_second": "",
+    "image_third": ""
+  },
+  "ps_controller": {
+    "title": "Ps controller",
+    "price": 89.0,
+    "description": "A kid-friendly PlayStation-style controller with lights and buttons. Perfect for pretend play and developing motor skills \u2014 just like the real thing, made for little gamers!",
+    "image_main": "https://upload.wikimedia.org/wikipedia/commons/4/44/Playstation_4_Controller.png",
+    "image_second": "",
+    "image_third": ""
+  },
+  "rubik's_cube": {
+    "title": "Rubik's cube",
+    "price": 9.0,
+    "description": "A classic brain-teasing puzzle that challenges logic, memory, and problem-solving. Fun, compact, and perfect for all ages!",
+    "image_main": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Rubiks_cube_by_keqs.jpg",
+    "image_second": "",
+    "image_third": ""
+  },
+  "lego": {
+    "title": "Lego",
+    "price": 49.0,
+    "description": "Creative, colorful bricks that inspire imagination and hands-on fun. Build, play, and explore endless possibilities \u2014 one block at a time!",
+    "image_main": "https://upload.wikimedia.org/wikipedia/commons/0/03/14-05-28-LEGO-by-RalfR-061.jpg",
+    "image_second": "",
+    "image_third": ""
+  },
+  "ferrari_car_toy": {
+    "title": "Ferrari Car Toy",
+    "price": 99.0,
+    "description": "A sleek, high-speed replica designed for little racers. Stylish, durable, and perfect for fast-paced fun and imagination on the go!",
+    "image_main": "https://upload.wikimedia.org/wikipedia/commons/7/75/An_improperly_made_Ferrari_Testarossa_model_%28front%29.jpg",
+    "image_second": "",
+    "image_third": ""
+  },
+  "teddy_bear_": {
+    "title": "Teddy Bear ",
+    "price": 29.0,
+    "description": "Soft, cuddly, and always ready for hugs. A classic companion for comfort, playtime, and bedtime snuggles.",
+    "image_main": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Teddy_Bear_-_5.jpg",
+    "image_second": "",
+    "image_third": ""
+  }
+}
